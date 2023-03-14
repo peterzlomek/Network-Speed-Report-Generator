@@ -1,0 +1,4 @@
+fpdf==1.7.2
+Pillow==9.4.0
+reportlab==3.6.12
+speedtest-cli==2.1.3

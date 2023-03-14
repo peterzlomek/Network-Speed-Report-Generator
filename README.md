@@ -1,2 +1,2 @@
 # Network-Speed-Report-Generator
-This program is to generates a PDF report displaying network upload and download speeds. 
+This program is to generates a PDF report displaying network upload and download speeds. The program uses the speedtest library to perform the speed test and then generates a PDF report using the reportlab library. The PDF report includes a title, a table that displays the download and upload speeds, and styling such as font size, font type, and background color. The program can be used to monitor network speeds and generate reports for analysis or record-keeping purposes. The program can be executed from the command line and generates the PDF report in the same directory as the script.
